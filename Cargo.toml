@@ -1,5 +1,6 @@
 [package]
 name = "term-colour-rs"
+authors = ["Chen Kang Yang <30970698+chen-ky@users.noreply.github.com>"]
 version = "0.1.0"
 edition = "2021"
 
