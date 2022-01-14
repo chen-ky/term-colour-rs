@@ -22,6 +22,7 @@ pub const CYAN                  : &str = "\033[0;36m";
 pub const CYAN_BOLD             : &str = "\033[1;36m";
 
 pub const WHITE                 : &str = "\033[0;37m";
+pub const WHITE_BOLD            : &str = "\033[1;37m";
 
 pub const GRAY                  : &str = "\033[0;90m";
 pub const GRAY_BOLD             : &str = "\033[1;90m";
